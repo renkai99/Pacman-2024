@@ -1,6 +1,6 @@
-# Pacman Game Implementation
+# Learning to play Pacman
 
-This repository contains the code for a simple implementation of the Pacman game using the Gymnasium library in Python. The project demonstrates how to set up a basic environment for running the game, as well as a template for further development, including the implementation of various reinforcement learning algorithms.
+This repository contains the code for a simple implementation of the Pacman game using the Gymnasium library. The template set up a basic environment for running the game and it will be used for the Ing Simultanée projects 2024 at Sycamore lab, EPFL.
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ To get started with the Pacman game, follow these steps:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/renkai99/Pacman-2024-.git
+   git clone https://github.com/renkai99/Pacman-2024.git
    ```
 
 2. **Navigate to the Repository Directory**
