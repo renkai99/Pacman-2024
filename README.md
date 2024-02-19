@@ -35,32 +35,12 @@ To get started with the Pacman game, follow these steps:
    git clone https://github.com/renkai99/Pacman-2024.git
    ```
 
-2. **Navigate to the Repository Directory**
+2. **Running the Game**
 
-   Change into the repository directory:
-
-   ```bash
-   cd pacman-gym
-   ```
-
-3. **Install Dependencies**
-
-   Install the required Python packages listed above by running:
+   To run the Pacman game with a random policy, execute the following command in the terminal:
 
    ```bash
-   pip install -r requirements.txt
+   python pacman.py
    ```
 
-## Running the Game
-
-To run the Pacman game with a random policy, execute the following command in the terminal:
-
-```bash
-python pacman.py
-```
-
-This script initializes the Pacman game environment and controls the agent with a random policy. It will run through episodes of the game, taking random actions at each step.
-
-## Contributions
-
-Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
+   This script initializes the Pacman game environment and controls the agent with a random policy. It will run through episodes of the game, taking random actions at each step.
