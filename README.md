@@ -20,7 +20,7 @@ To run the Pacman game, you need to install the following Python packages:
 You can install these dependencies by running the following command in your terminal:
 
 ```bash
-pip install gymnasium numpy matplotlib
+pip install numpy matplotlib gymnasium[atari, accept-rom-license]
 ```
 
 ## Installation
